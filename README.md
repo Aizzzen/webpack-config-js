@@ -1,6 +1,3 @@
-## Конфигурация Webpack
+# Конфигурация Webpack конфиг
 
-# Стек: React, Redux, Redux-thunk
-
-
-Если не работает команда webpack, использовать npm run dev
+#  Стек: React, Redux, Redux-thunk
