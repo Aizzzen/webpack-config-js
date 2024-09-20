@@ -1,3 +1,3 @@
-# Конфигурация Webpack конфиг
+# Webpack конфиг
 
-#  Стек: React, Redux, Redux-thunk
+###  Стек: React, Redux, Redux-thunk
